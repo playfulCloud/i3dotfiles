@@ -1,0 +1,5 @@
+Dependencies
+
+Ly 
+Picom
+autotiling
